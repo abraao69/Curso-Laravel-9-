@@ -1,6 +1,12 @@
 
 # Setup Docker Para Projetos Laravel 9 com PHP 8
-[Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
+
+<hr>
+<p align="center">
+ <img width="900px" src="https://user-images.githubusercontent.com/103331086/219087953-ff229a5b-5470-486e-b6cc-95166f865ff9.png" />
+</p>
+
+
 
 ### Passo a passo
 Clone Repositório
